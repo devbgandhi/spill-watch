@@ -1,0 +1,8 @@
+# Python 3.12. Pin exact versions once everything works.
+opencv-python
+numpy
+ultralytics
+torch
+fastapi
+uvicorn[standard]
+python-dotenv
